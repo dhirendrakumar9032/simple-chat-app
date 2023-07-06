@@ -1,0 +1,25 @@
+.app {
+  padding: 40px;
+  background-color: #d1f2eb;
+  height: 100vh;
+}
+
+input {
+  height: 40px;
+  width: 200px;
+}
+
+.add-button {
+  height: 40px;
+  width: 40px;
+  font-weight: 700;
+  text-align: center;
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+.main {
+  display: flex;
+  gap: 30px;
+  margin-top: 60px;
+}
